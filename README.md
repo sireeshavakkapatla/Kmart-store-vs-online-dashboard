@@ -7,19 +7,25 @@ over time, enabling data-driven decision-making for retail strategy.
 **Total Sales Performance**
    * Total Sales: $31.86M
    * Average Sales per Transaction: $707
+     
 **Channel Distribution**
    * Store sales account for 79% of total revenue, while online sales contribute only 21%, indicating heavy reliance on physical stores.
+     
 **Top Performing Categories**
    * Clothing & Fashion, Home & Living, and Toys & Outdoor Play are the leading categories by revenue.
    * Party & Gift Wrap and Stationery underperform significantly.
+     
 **Geographic Performance**
     * New South Wales leads all states with $1.16M in sales, followed by Victoria and Queensland.
     * Frankston suburb stands out in sales concentration.
+    
 **Top Contributors**
     * Bruce Curran is the top buyer; Rachael Long is the top manager by sales contribution.
+    
 **Buyer Preferences**
     * Most buyers prefer store purchases over online.
     * Variability in buyer channel usage suggests potential for targeted marketing.
+    
 **Sales Trends Over Time**
     * Spikes observed around mid-2023 and early 2024 suggest seasonal or promotional events.
 
