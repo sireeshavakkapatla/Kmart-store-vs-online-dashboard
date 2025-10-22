@@ -7,7 +7,7 @@ Developed a comprehensive sales performance dashboard for Kmart using Excel to v
 over time, enabling data-driven decision-making for retail strategy.
 
 ### **Key Performance Indicators (KPIs):**
- **Total Sales Performance**  
+ **Total Sales Performance** 
     * Total Sales: $31.86M    
     * Average Sales per Transaction: $707     
 **Channel Distribution**
