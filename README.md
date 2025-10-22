@@ -7,6 +7,7 @@ over time, enabling data-driven decision-making for retail strategy.
 **Total Sales Performance**
    * Total Sales: $31.86M
    * Average Sales per Transaction: $707
+     
 **Channel Distribution**
    * Store sales account for 79% of total revenue, while online sales contribute only 21%, indicating heavy reliance on physical stores.
 **Top Performing Categories**
