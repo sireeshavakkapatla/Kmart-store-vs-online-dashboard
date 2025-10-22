@@ -23,8 +23,8 @@ over time, enabling data-driven decision-making for retail strategy.
 **Sales Trends Over Time**
     * Spikes observed around mid-2023 and early 2024 suggest seasonal or promotional events.
 
-**Recommendations
-Strengthen Online Sales Strategy**
+**Recommendations**
+**Strengthen Online Sales Strategy**
     * Launch exclusive online-only campaigns and optimize the digital shopping experience to capture more revenue through the e-commerce channel.
 **Invest in Top Categories**
     * Double down on marketing and inventory for top-selling categories like Clothing, Home & Living, and Toys.
