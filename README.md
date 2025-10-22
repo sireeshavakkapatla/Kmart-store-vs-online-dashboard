@@ -7,13 +7,13 @@ Developed a comprehensive sales performance dashboard for Kmart using Excel to v
 over time, enabling data-driven decision-making for retail strategy.
 
 ### **Key Performance Indicators (KPIs):**
- **Total Sales Performance** 
+ **Total Sales Performance**  
     * Total Sales: $31.86M    
     * Average Sales per Transaction: $707     
 **Channel Distribution**
    * Store sales account for 79% of total revenue, while online sales contribute only 21%, indicating heavy reliance on physical stores.\
 **Top Performing Categories**
-   * Clothing & Fashion, Home & Living, and Toys & Outdoor Play are the leading categories by revenue.\
+* Clothing & Fashion, Home & Living, and Toys & Outdoor Play are the leading categories by revenue.\
    * Party & Gift Wrap and Stationery underperform significantly.\
 **Geographic Performance**\
     * New South Wales leads all states with $1.16M in sales, followed by Victoria and Queensland.\
